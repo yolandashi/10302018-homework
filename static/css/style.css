@@ -1,0 +1,28 @@
+h1 {
+    color: blue;
+}
+
+
+h2 {
+    font-size: 15px;
+}
+
+h2 {
+    font-size: 10px;
+}
+
+.box{
+    padding: 10px;
+    background: white;
+    margin-top:50px;
+    margin-left:20px;
+    margin-right:20px;
+    margin-bottom:20px;
+    align-content: center;
+  }
+
+
+.col-md-6 border {
+    padding: 10px;
+   
+}
